@@ -1,0 +1,9 @@
+Package: com.zjw.keepkeychain
+Name: KeepKeychain
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Block YOY (AXJ) from wiping genp Keychain items in 捕鱼大决战
+Maintainer: zjw
+Author: zjw
+Section: Tweaks
+Depends: mobilesubstrate
